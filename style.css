@@ -1,0 +1,46 @@
+/* Style of my project */
+#comment, #website{
+    padding-top: 1%;
+}
+#jum{
+    height: 300px;
+    background-image: url("1.jpg");
+    background-position: top;
+    background-size: cover;
+    color: #132238;
+}
+#te{
+    position: relative;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+#nav{
+    min-height:65px;
+    background-color:#132238;
+}
+#submit{
+    background-color:#98ccd3;
+    color: #1A2930;
+}
+#ref{
+    max-height: 85%;
+    overflow: auto;
+}
+#com{
+    max-height: 85%;
+    overflow: auto;
+}
+#foot{
+    background-color: #132238;
+    color: white
+}
+h4.ti,h4.to{
+    color:lightslategray
+}
+#watch:hover{
+    transform: scale(1.2);
+}
+#card:hover{
+    transform: scale(1.1);
+}
